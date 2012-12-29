@@ -39,7 +39,7 @@ Click [this](http://qunitjs.com) for a quick QUnit jumpstart.
 
 ### Quick look
 
-Most of the times it is easy to see the sample implementation.
+Most of the time, it is easy to understand by looking the sample implementation.
 
 See the [sample usage](https://github.com/jbestanislao/qunit-maven-plugin-example) of Qunit maven plugin.
 
